@@ -38,8 +38,7 @@ Por otro lado, todos los assets son tomados de assets publicos en internet, se h
 7. Abrir el juego en unity en el computador, y darle play a la escena hubicada en Assets/Scenes/firstmoviles y darle al botón de Play. 
 
 ## Herramientas utilizadas
-El unico programa aparte de Unity fue 
-- Blender: modificación del servidor para poder removerle un bloque y agregarlo en la parte de memory managment.
-En Unity se hicieron algunas otras cosas:
-- Desarrollo de logica: Todas las salas y las enseñanzas contienen un diseño de logica así como codigo en C# que muestra su desarrollo 
-- Desarrollo de interacción: Al ser en realidad virtual, se maneja un desarrollo de interacción con diferentes objetos para prevenir la monotonía y mejorar la experiencia.
+- Blender: modificación del servidor en el que se meten los datos. A este objeto se le removió un bloque y es el espacio en donde tienen que ingresar los bloques de datos en  la parte de memory managment.
+- Desarrollo de logica: Todas las salas y las enseñanzas contienen un diseño de logica así como codigo en C# que muestra su desarrollo. 
+- Desarrollo de interacción: Al ser en realidad virtual, se maneja un desarrollo de interacción con diferentes objetos para prevenir la monotonía y mejorar la experiencia. Especialmente se usa el XR Interaction Toolkit para la funcionalidad
+
