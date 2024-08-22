@@ -1,44 +1,46 @@
-# ColabVRTesis
 
-Este proyecto es un juego que enseña estrategias de optimización en construcción de aplicaciones moviles en realidad virtual.
+# **OptiScape: Use all the optimization strategies to save your spaceship.**
 
-## Colaboradores
+This project is a game that teaches optimization strategies in mobile application development within a virtual reality environment.
 
- - Ángela Jimenez
-   [LinkedIn](https://www.linkedin.com/in/angelajimenezf/)
+## **Contributors**
 
- ## Descripción
+- Ángela Jimenez  
+  [LinkedIn](https://www.linkedin.com/in/angelajimenezf/)
 
- El proyecto es un juego en el que una persona se conecta a un ambiente virtual y tiene que solucionar los problemas de optimización que se encuentran en la aplicación, así como tomar decisiones que pueden dificultar el camino en la aplicación (lo que significa problemas de optimización). Se describen 4 cosas en particular: Overdrawing, microoptimizaciones, promesas y memory managment.
+## **Description**
 
- ## Objetivo
+The project is a game where a person connects to a virtual environment and must solve optimization problems within the application, as well as make decisions that can complicate the application’s path (which means optimization challenges). Four specific areas are covered: Overdrawing, micro-optimizations, promises, and memory management.
 
- Con este proyecto se busca enseñar diferentes tecnicas y atributos a considerar para mejorar o mantener la optimización en el desarrollo movil en flutter.
+## **Objective**
 
-## Tecnologías Utilizadas
+The goal of this project is to teach different techniques and attributes to consider in order to improve or maintain optimization in mobile development using Flutter.
 
-Este proyecto fue desarrollado en el motor de juegos conocido como Unity, en la versión 2021.3.5f1. Además para la elaboración del juego se utilizaron los siguientes paquetes:
+## **Technologies Used**
 
-### Paquetes
+This project was developed using the Unity game engine, version 2021.3.5f1. Additionally, the following packages were used in the creation of the game:
+
+### **Packages**
 - FBX Exporter v4.1.2
 - JetBrains Rider Editor v3.0.14
-- Oculus XR Plugin v 3.0.2 
+- Oculus XR Plugin v3.0.2 
 - TextMeshPro v3.0.6
 - Universal RP v12.1.7
 - XR Interaction Toolkit v2.0.1
 - XR Plugin Management v4.2.1
 
-Por otro lado, todos los assets son tomados de assets publicos en internet, se hizo la modificación de 1 objeto de la escena en Blender para desarrollar una de las salas. Adicionalmente, para mejorar la optimización del proyecto, se usaron tecnicas como occlution culling y LOD.
-## Instructivo para ejecución
+Furthermore, all assets were sourced from public assets available online, with one object in the scene modified using Blender to develop one of the rooms. Additionally, techniques like occlusion culling and LOD were implemented to enhance the project's optimization.
 
-1. Se utilizó la versión de Unity 2021.3.5f1 por lo cual es necesario su descarga para que todos los archivos sean instalados correctamente.
-2. Clonar el repositorio.
-3. Abrir UnityHub y agregar el proyecto seleccionando la carpeta donde se clonó el repositorio.
-4. Conectar las gafas de realidad virtual y habilitar la opción de quest link. **El juego se debe ejecutar desde el computador, por lo cual es necesario la conexión por cable**
-7. Abrir el juego en unity en el computador, y darle play a la escena hubicada en Assets/Scenes/firstmoviles y darle al botón de Play. 
+## **Execution Instructions**
 
-## Herramientas utilizadas
-- Blender: modificación del servidor en el que se meten los datos. A este objeto se le removió un bloque y es el espacio en donde tienen que ingresar los bloques de datos en  la parte de memory managment.
-- Desarrollo de logica: Todas las salas y las enseñanzas contienen un diseño de logica así como codigo en C# que muestra su desarrollo. 
-- Desarrollo de interacción: Al ser en realidad virtual, se maneja un desarrollo de interacción con diferentes objetos para prevenir la monotonía y mejorar la experiencia. Especialmente se usa el XR Interaction Toolkit para la funcionalidad
+1. Unity version 2021.3.5f1 was used, so it is necessary to download this version for all files to be installed correctly.
+2. Clone the repository.
+3. Open UnityHub and add the project by selecting the folder where the repository was cloned.
+4. Connect the VR headset and enable the Quest Link option. **The game must be run from the computer, so a cable connection is required.**
+5. Open the game in Unity on the computer, navigate to the scene located in `Assets/Scenes/firstmoviles`, and click the Play button.
 
+## **Tools Used**
+
+- **Blender**: Modified the server object where data is stored. A block was removed from this object, creating the space where data blocks must be inserted in the memory management section.
+- **Logic Development**: All rooms and lessons contain logic design and include C# code that demonstrates their development.
+- **Interaction Development**: Being in virtual reality, interaction with different objects is managed to prevent monotony and improve the experience. The XR Interaction Toolkit is specifically used for functionality.
