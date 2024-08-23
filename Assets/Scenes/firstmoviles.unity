@@ -1537,9 +1537,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Base de datos
+  m_text: '
 
-    Local'
+    Local database.
+
+
+
+
+
+
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -4074,7 +4082,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Imagenes
+  m_text: Images
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -4335,8 +4343,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oh no, el main thread se ocup\xF3\npor una funci\xF3n, ponle un \nfuture
-    y un async para poder \nseguir."
+  m_text: "Oh no! the main thread \nis occupied by a function; \nuse a future and
+    an async \nto keep it going."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -4677,7 +4685,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 17.66, y: 2.85}
+  m_AnchoredPosition: {x: 17.66, y: 3.04}
   m_SizeDelta: {x: 197.3, y: 200}
   m_Pivot: {x: 0.49960113, y: 0.5001357}
 --- !u!114 &185696911
@@ -7311,7 +7319,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 324734068}
   m_LocalRotation: {x: 0, y: 0.8345933, z: -0.55086666, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.326}
+  m_LocalPosition: {x: 0, y: 0, z: 0.41}
   m_LocalScale: {x: 1.355797, y: 1.3557972, z: 1.3557972}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7321,7 +7329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 66.853, y: 180, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.321, y: 1.857}
+  m_AnchoredPosition: {x: 0.321, y: 1.82}
   m_SizeDelta: {x: 197.3, y: 200}
   m_Pivot: {x: 0.49960113, y: 0.5001357}
 --- !u!114 &324734070
@@ -13009,7 +13017,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Flujo de \ndatos"
+  m_text: Data Flow
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -14290,7 +14298,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Configuraciones\nde la aplicaci\xF3n"
+  m_text: App Settings
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -18894,7 +18902,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: MEMORIA
+  m_text: STORAGE
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -19029,8 +19037,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hay overdrawing, quita\ntodas las capas extra\nque est\xE9n afectando
-    el\nrendimiento."
+  m_text: "There is overdrawing; remove all the extra layers that are \naffecting
+    performance."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -29860,9 +29868,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' Cache
+  m_text: 'Temporal
 
-    Temporal'
+    Cache'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -32965,8 +32973,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oh no, el main thread se ocup\xF3\npor una funci\xF3n, ponle un \nfuture
-    y un async para poder \nseguir."
+  m_text: "Oh no! the main thread is \nblocked by a function; \nuse a future and
+    an async\nto keep it running"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -35563,7 +35571,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1673919686}
   m_LocalRotation: {x: -0.2974434, y: 0.6441419, z: -0.300601, w: -0.6373758}
-  m_LocalPosition: {x: 0, y: 0, z: 0.01}
+  m_LocalPosition: {x: 0, y: 0, z: 0.001}
   m_LocalScale: {x: 0.5938861, y: 0.9999551, z: 0.99996835}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -42122,7 +42130,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: objetos como usuarios, carros y publicaciones
+  m_text: Objects like users, cars, and posts.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
@@ -43727,8 +43735,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "No hay optimizaci\xF3n de \nalmacenamiento ni datos\nguardados correctamente.\n\nAlmacena
-    los datos en el \nlugar correcto. Cuidado,\n!se puede ir el internet!"
+  m_text: "There is no storage optimization, and data isn't being saved correctly.\n\nStore
+    the data in the right place. Be careful\u2014 the internet connection might drop!\n\n\n\n\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b022d542382447845a91a9b0d687c07b, type: 2}
   m_sharedMaterial: {fileID: -6617180725790759603, guid: b022d542382447845a91a9b0d687c07b, type: 2}
