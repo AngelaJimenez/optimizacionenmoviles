@@ -1,5 +1,5 @@
 
-# **OptiScape: Use all the optimization strategies to save your spaceship.**
+# **Phone Fix VR: Optimization Adventure.**
 
 This project is a game that teaches optimization strategies in mobile application development within a virtual reality environment. 
 
