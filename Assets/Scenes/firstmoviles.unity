@@ -4781,7 +4781,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 193661635}
   m_LocalRotation: {x: 0.6987255, y: -0.024275139, z: 0.026819184, w: 0.7144748}
-  m_LocalPosition: {x: 0, y: 0, z: -0.859}
+  m_LocalPosition: {x: 0, y: 0, z: -0.87}
   m_LocalScale: {x: 3.0429406, y: 3.0429428, z: 3.0429406}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4791,7 +4791,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 91.29199, y: -172.895, z: -168.753}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.177, y: 0.088}
+  m_AnchoredPosition: {x: 0.04, y: 0.09}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &193661637
@@ -19205,7 +19205,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "El boton te llevar\xE1 dentro del celular"
+  m_text: The button will take you inside the phone.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c0630008b09c7ba48bd6a5ab6a10bd68, type: 2}
   m_sharedMaterial: {fileID: 3711971404639568596, guid: c0630008b09c7ba48bd6a5ab6a10bd68, type: 2}
