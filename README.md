@@ -1,7 +1,7 @@
 
 # **OptiScape: Use all the optimization strategies to save your spaceship.**
 
-This project is a game that teaches optimization strategies in mobile application development within a virtual reality environment. Most of it is in spanish.
+This project is a game that teaches optimization strategies in mobile application development within a virtual reality environment. 
 
 ## **Contributors**
 
@@ -10,8 +10,7 @@ This project is a game that teaches optimization strategies in mobile applicatio
 
 ## **Description**
 
-The project is a game where a person connects to a virtual environment and must solve optimization problems within the application, as well as make decisions that can complicate the application’s path (which means optimization challenges). Four specific areas are covered: Overdrawing, micro-optimizations, promises, and memory management.
-
+This Virtual Reality experience immerses you in a unique scenario where your phone stops working, and you magically find yourself inside the device. To figure out what's causing the problems, you must navigate through different areas, each representing aspects of app optimization. As you explore, you'll encounter various challenges where certain elements aren't optimized as they should be, providing a hands-on learning experience. Your mission is to fix these issues and learn key optimization techniques to restore your phone's functionality!
 ## **Objective**
 
 The goal of this project is to teach different techniques and attributes to consider in order to improve or maintain optimization in mobile development using Flutter.
